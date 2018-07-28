@@ -7,22 +7,14 @@
   text-align: center;
  }
 
- /*
-.fondo {
-	background-image: url(fondo2.png);
-	background-repeat: no-repeat;
-	background-position: center;
-	background-position:70px 1px;
-	background-color: #000	
-
-}
-
-*/
 
 body{
 
-	background-image: url("https://images.pexels.com/photos/1267473/pexels-photo-1267473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	background-image: url("https://serving.photos.photobox.com/2772589693535a88b85fd2ba330792066b67a35b95812a8b55862b1f137819a39ef57d11.jpg");
 	background-repeat: no-repeat;
+	background-position: center;
+	background-position: 70px 1px;
+	background-color: #000	
 
 }
 
