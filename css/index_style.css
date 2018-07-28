@@ -8,6 +8,10 @@
   position: 
 }
 
+body {
+	background-repeat: no-repeat;
+}
+
 .imgRedonda {
     width:150px;
     height:150px;
