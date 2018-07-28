@@ -9,7 +9,7 @@
 }
 
 body {
-  background-image: url("fondo.jpeg");
+  background-image: url("./fondo.jpeg");
   background-repeat: no-repeat;
   background-position: center;
   background-position: 70px 1px;
