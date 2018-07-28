@@ -8,8 +8,11 @@
   position: 
 }
 
-body {
+.fondo {
+	background-position: 70px 1px;
 	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #000;
 }
 
 .imgRedonda {
