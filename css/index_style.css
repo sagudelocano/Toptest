@@ -19,6 +19,12 @@
 
 */
 
+html{
+
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr0eCY6uugHn3IXbO-DzxBJfmN4aBcOVaLrifO6w8DTu_tTqMH");
+	background-repeat: no-repeat;
+
+}
 
 .imgRedonda {
     width:150px;
