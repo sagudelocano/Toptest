@@ -3,14 +3,15 @@
 #texto{
 
   font-family: 'Comfortaa', cursive;
-  color:#003300;
+  color:#00330d;
   text-align: center;
  }
 
 .fondo {
-	background-image: url(fondo.jpeg);
+	background-image: url(img/fondo.jpeg);
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: 70px 1px;
+	background-size: 90%;
 	background-color: #000;
 }
 
