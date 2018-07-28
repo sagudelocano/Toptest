@@ -8,10 +8,9 @@
  }
 
 .fondo {
-	background-image: url(img/fondo.jpeg);
+	background-image: url(fondo.jpeg);
 	background-repeat: no-repeat;
 	background-position: 70px 1px;
-	background-size: 90%;
 	background-color: #000;
 }
 
